@@ -1,0 +1,18 @@
+{
+  "name": "boilprate",
+  "version": "1.0.0",
+  "description": "simple application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Hamdi Yhayaoui",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
