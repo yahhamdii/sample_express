@@ -4,7 +4,7 @@
   "description": "simple application",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "keywords": [
     "node",
@@ -14,5 +14,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
   }
 }
